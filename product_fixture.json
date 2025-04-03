@@ -1,0 +1,22 @@
+[
+{
+    "model": "suppliers.product",
+    "pk": 1,
+    "fields": {
+        "name": "Продукт 1",
+        "model": "Модель 1",
+        "release_date": "2024-03-01",
+        "supplier": 3
+    }
+},
+{
+    "model": "suppliers.product",
+    "pk": 2,
+    "fields": {
+        "name": "Продукт 2",
+        "model": "Модель 2",
+        "release_date": "2024-04-01",
+        "supplier": 2
+    }
+}
+]
